@@ -1,5 +1,11 @@
 # Adversarial-Patch-Attack
 This is the code for the adversarial patch attack on the EuroSAT dataset. 
+
+What is an adversarial attack?
+As AI/ML usage rapidly increases, ensuring the reliability of these models becomes crucial. Numerous attacks have been developed that can cause models to be classified wrongly, which could have catastrophic consequences, such as in the context of self-driving cars. Therefore, significant research is being conducted to enhance the robustness of machine learning models against these attacks.
+
+Adversarial attack: an attack that aims to cause an AI system to make a mistake or misclassification, often through subtle manipulations of the input data.
+
 EuroSAT dataset - The dataset is based on Sentinel-2 satellite images covering 13 spectral bands and consisting of 10 classes with a total of 27,000 labeled and geo-referenced images. 
 Class Names: 'AnnualCrop', 'Forest', 'HerbaceousVegetation', 'Highway', 'Industrial', 'Pasture', 'PermanentCrop', 'Residential', 'River', 'SeaLake'.
 
