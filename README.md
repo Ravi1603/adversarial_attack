@@ -1,4 +1,4 @@
-# adversarial_attack
+# Adversarial-Patch-Attack
 This is the code for the adversarial patch attack on the EuroSAT dataset. 
 EuroSAT dataset - The dataset is based on Sentinel-2 satellite images covering 13 spectral bands and consisting of 10 classes with a total of 27,000 labeled and geo-referenced images. 
 Class Names: 'AnnualCrop', 'Forest', 'HerbaceousVegetation', 'Highway', 'Industrial', 'Pasture', 'PermanentCrop', 'Residential', 'River', 'SeaLake'.
